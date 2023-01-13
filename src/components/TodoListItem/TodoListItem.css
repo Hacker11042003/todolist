@@ -1,0 +1,12 @@
+.done{
+     text-decoration: line-through;
+}
+.importand{
+     font-weight: bold;
+     color: blue;
+}
+.trash{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
